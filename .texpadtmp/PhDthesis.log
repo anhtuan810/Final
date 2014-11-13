@@ -1,0 +1,2914 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.9)  13 NOV 2014 19:02
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**PhDthesis.tex
+(./PhDthesis.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2012/07/29 v3.11b KOMA-Script document class (report)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
+
+Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 117.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 118.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 119.
+Class scrreprt Info: You've used standard option `openright'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `open=right'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `open=right' there
+(scrreprt)           instead of `openright', too.
+Class scrreprt Info: You've used standard option `abstractoff'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `abstract=false'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `abstract=false' there
+(scrreprt)           instead of `abstractoff', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input line 1367.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (11pt)
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
+
+Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 44.38632pt
+(typearea)              \oddsidemargin  = 0.28453pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 514.20023pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1213.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) (./classicthesis-config.tex)
+
+LaTeX Warning: Unused global option(s):
+    [ngerman,american].
+
+(/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.aux (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/DirtyTitlepage.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Titlepage.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Titleback.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Dedication.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Abstract.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Publication.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Acknowledgments.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Contents.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter01.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter02.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter03.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter0A.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Bibliography.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Colophon.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Declaration.aux))
+\openout1 = `PhDthesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+
+
+./PhDthesis.tex:63: Package babel Error: You haven't loaded the language american yet.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \selectlanguage{american}
+                               % american ngerman
+You may proceed, but expect unexpected results
+
+\openout2 = `FrontBackmatter/DirtyTitlepage.aux'.
+
+(./FrontBackmatter/DirtyTitlepage.tex
+./FrontBackmatter/DirtyTitlepage.tex:8: Undefined control sequence.
+l.8     \spacedlowsmallcaps
+                           {\myName} \\ \medskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/DirtyTitlepage.tex:8: Undefined control sequence.
+l.8     \spacedlowsmallcaps{\myName
+                                   } \\ \medskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/DirtyTitlepage.tex:8: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8     \spacedlowsmallcaps{\myName} \\
+                                        \medskip
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/DirtyTitlepage.tex:11: Undefined control sequence.
+l.11         \color
+                   {Maroon}\spacedallcaps{\myTitle}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/DirtyTitlepage.tex:11: Undefined control sequence.
+l.11         \color{Maroon}\spacedallcaps
+                                         {\myTitle}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/DirtyTitlepage.tex:11: Undefined control sequence.
+l.11         \color{Maroon}\spacedallcaps{\myTitle
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [1
+
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `FrontBackmatter/Titlepage.aux'.
+
+ (./FrontBackmatter/Titlepage.tex [2
+
+
+
+
+]
+./FrontBackmatter/Titlepage.tex:15: Undefined control sequence.
+l.15             \color
+                       {Maroon}\spacedallcaps{\myTitle} \\ \bigskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:15: Undefined control sequence.
+l.15             \color{Maroon}\spacedallcaps
+                                             {\myTitle} \\ \bigskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:15: Undefined control sequence.
+l.15 ...     \color{Maroon}\spacedallcaps{\myTitle
+                                                  } \\ \bigskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:18: Undefined control sequence.
+l.18         \spacedlowsmallcaps
+                                {\myName}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:18: Undefined control sequence.
+l.18         \spacedlowsmallcaps{\myName
+                                        }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:22: Undefined control sequence.
+l.22         \includegraphics
+                             [width=6cm]{gfx/TFZsuperellipse_bw} \\ \medskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...degraphics[width=6cm]{gfx/TFZsuperellipse_
+                                                  bw} \\ \medskip
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+./FrontBackmatter/Titlepage.tex:22: Extra }, or forgotten $.
+l.22 ...raphics[width=6cm]{gfx/TFZsuperellipse_bw}
+                                                   \\ \medskip
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+./FrontBackmatter/Titlepage.tex:22: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...hics[width=6cm]{gfx/TFZsuperellipse_bw} \\
+                                                   \medskip
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Titlepage.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...hics[width=6cm]{gfx/TFZsuperellipse_bw} \\
+                                                   \medskip
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./FrontBackmatter/Titlepage.tex:22: Missing } inserted.
+<inserted text> 
+                }
+l.22 ...hics[width=6cm]{gfx/TFZsuperellipse_bw} \\
+                                                   \medskip
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./FrontBackmatter/Titlepage.tex:24: Undefined control sequence.
+l.24         \mySubtitle
+                         \\ \medskip
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Titlepage.tex:24: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24         \mySubtitle \\
+                            \medskip
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Titlepage.tex:30: Undefined control sequence.
+l.30         \myTime
+                    \ -- \myVersion
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titlepage.tex:30: Undefined control sequence.
+l.30         \myTime\ -- \myVersion
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3])
+\openout2 = `FrontBackmatter/Titleback.aux'.
+
+ (./FrontBackmatter/Titleback.tex
+./FrontBackmatter/Titleback.tex:7: Undefined control sequence.
+l.7 \noindent\myName
+                    : \textit{\myTitle,} \mySubtitle, %\myDegree,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titleback.tex:7: Undefined control sequence.
+<recently read> \myTitle 
+                         
+l.7 \noindent\myName: \textit{\myTitle,}
+                                         \mySubtitle, %\myDegree,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Titleback.tex:7: Undefined control sequence.
+l.7 ...dent\myName: \textit{\myTitle,} \mySubtitle
+                                                  , %\myDegree,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+
+./FrontBackmatter/Titleback.tex:8: Undefined control sequence.
+l.8 \textcopyright\ \myTime
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [4
+
+
+]
+\openout2 = `FrontBackmatter/Dedication.aux'.
+
+ (./FrontBackmatter/Dedication.tex
+
+./FrontBackmatter/Dedication.tex:6: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \refstepcounter{dummy}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Dedication.tex:7: Undefined control sequence.
+l.7 \pdfbookmark
+                [1]{Dedication}{Dedication}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [5
+
+
+
+
+] [6
+
+
+
+]
+\openout2 = `FrontBackmatter/Abstract.aux'.
+
+ (./FrontBackmatter/Abstract.tex
+./FrontBackmatter/Abstract.tex:5: Undefined control sequence.
+l.5 \pdfbookmark
+                [1]{Abstract}{Abstract}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Abstract.tex:17: Undefined control sequence.
+l.17 \pdfbookmark
+                 [1]{Zusammenfassung}{Zusammenfassung}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [7
+
+] [8
+
+
+
+]
+\openout2 = `FrontBackmatter/Publication.aux'.
+
+ (./FrontBackmatter/Publication.tex
+./FrontBackmatter/Publication.tex:4: Undefined control sequence.
+l.4 \pdfbookmark
+                [1]{Publications}{publications}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[9
+
+] [10
+
+
+]) [11] [12
+
+
+
+]
+\openout2 = `FrontBackmatter/Acknowledgments.aux'.
+
+ (./FrontBackmatter/Acknowledgments.tex
+./FrontBackmatter/Acknowledgments.tex:4: Undefined control sequence.
+l.4 \pdfbookmark
+                [1]{Acknowledgments}{acknowledgments}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Acknowledgments.tex:11: Undefined control sequence.
+l.11     --- \defcitealias
+                          {knuth:1974}{Donald E. Knuth}\citetalias{knuth:197...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Acknowledgments.tex:11: Undefined control sequence.
+l.11 ...as{knuth:1974}{Donald E. Knuth}\citetalias
+                                                  {knuth:1974} \citep{knuth:...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Acknowledgments.tex:11: Undefined control sequence.
+l.11 ...ld E. Knuth}\citetalias{knuth:1974} \citep
+                                                  {knuth:1974}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+./FrontBackmatter/Acknowledgments.tex:39: Undefined control sequence.
+<argument> Regarding \mLyX 
+                           
+l.39 \noindent\emph{Regarding \mLyX}
+                                    : The \mLyX\ port was intially done by
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Acknowledgments.tex:39: Undefined control sequence.
+l.39 \noindent\emph{Regarding \mLyX}: The \mLyX
+                                               \ port was intially done by
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [13
+
+]
+./PhDthesis.tex:79: Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.79 \pagestyle{scrheadings}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[14
+
+
+
+]
+\openout2 = `FrontBackmatter/Contents.aux'.
+
+ (./FrontBackmatter/Contents.tex
+
+./FrontBackmatter/Contents.tex:5: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \refstepcounter{dummy}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Contents.tex:6: Undefined control sequence.
+l.6 \pdfbookmark
+                [1]{\contentsname}{tableofcontents}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:9: Undefined control sequence.
+l.9 \manualmark
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:10: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {\contentsname }
+l.10 ...name}}{\spacedlowsmallcaps{\contentsname}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:10: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {\contentsname }
+l.10 ...name}}{\spacedlowsmallcaps{\contentsname}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[15
+
+] [16
+
+
+] (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.toc [17]
+/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.toc:30: Missing number, treated as zero.
+<to be read again> 
+                   \vskip 
+l.30 \vspace {}
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.toc:30: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \vskip 
+l.30 \vspace {}
+               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+)
+\tf@toc=\write3
+\openout3 = `PhDthesis.toc'.
+
+
+./FrontBackmatter/Contents.tex:12: Undefined control sequence.
+l.12 \automark
+              [section]{chapter}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[18]
+
+./FrontBackmatter/Contents.tex:28: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28     \refstepcounter{dummy}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Contents.tex:30: Undefined control sequence.
+l.30     \pdfbookmark
+                     [1]{\listfigurename}{lof}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.lof)
+\tf@lof=\write4
+\openout4 = `PhDthesis.lof'.
+
+
+
+./FrontBackmatter/Contents.tex:39: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     \refstepcounter{dummy}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Contents.tex:41: Undefined control sequence.
+l.41     \pdfbookmark
+                     [1]{\listtablename}{lot}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.lot)
+\tf@lot=\write5
+\openout5 = `PhDthesis.lot'.
+
+
+
+./FrontBackmatter/Contents.tex:51: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51     \refstepcounter{dummy}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Contents.tex:53: Undefined control sequence.
+l.53     \pdfbookmark
+                     [1]{\lstlistlistingname}{lol}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:53: Undefined control sequence.
+l.53     \pdfbookmark[1]{\lstlistlistingname
+                                            }{lol}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:54: Undefined control sequence.
+l.54     \lstlistoflistings
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Contents.tex:62: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62     \refstepcounter{dummy}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Contents.tex:63: Undefined control sequence.
+l.63     \pdfbookmark
+                     [1]{Acronyms}{acronyms}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:64: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Acronyms}
+l.64 ...{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:64: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Acronyms}
+l.64 ...{Acronyms}}{\spacedlowsmallcaps{Acronyms}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Contents.tex:66: LaTeX Error: Environment acronym undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66     \begin{acronym}
+                        [UML]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Contents.tex:67: Undefined control sequence.
+l.67         \acro
+                  {DRY}{Don't Repeat Yourself}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:68: Undefined control sequence.
+l.68         \acro
+                  {API}{Application Programming Interface}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Contents.tex:69: Undefined control sequence.
+l.69         \acro
+                  {UML}{Unified Modeling Language}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Contents.tex:70: LaTeX Error: \begin{document} ended by \end{acronym}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70     \end{acronym}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[19
+
+] [20
+
+
+]) [1
+
+
+
+
+
+] [2]
+\openout2 = `Chapters/Chapter01.aux'.
+
+ (./Chapters/Chapter01.tex
+Chapter 1.
+./Chapters/Chapter01.tex:2: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Introduction}
+l.2 \chapter{Introduction}
+                          \label{ch:introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:2: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Introduction}
+l.2 \chapter{Introduction}
+                          \label{ch:introduction}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:12: Undefined control sequence.
+l.12     inspired by \citeauthor
+                                {bringhurst:2002}'s ``\emph{The Elements of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:13: Undefined control sequence.
+l.13     Typographic Style}'' \citep
+                                    {bringhurst:2002}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:14: Undefined control sequence.
+<argument> \myTitle 
+                    \myVersion 
+l.14     \marginpar{\myTitle \myVersion}
+                                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:14: Undefined control sequence.
+<argument> \myTitle \myVersion 
+                               
+l.14     \marginpar{\myTitle \myVersion}
+                                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (13.70427pt too wide) in paragraph at lines 11--15
+[]\OT1/cmr/m/n/10.95 Provide a clas-sic, high-quality ty-po-graphic style that is in-spired by bringhurst:2002's
+ []
+
+./Chapters/Chapter01.tex:29: Undefined control sequence.
+l.29 \mLyX
+          \footnote{\url{http://www.lyx.org}} thanks to Nicholas Mariette
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:29: Undefined control sequence.
+<argument> ...\z@ \footnotesep \ignorespaces \url 
+                                                  {http://www.lyx.org}\@fina...
+l.29 \mLyX\footnote{\url{http://www.lyx.org}}
+                                              thanks to Nicholas Mariette
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:30: Undefined control sequence.
+l.30 and Ivo Pletikosi\'c. The \mLyX
+                                    \ version of this manual will contain
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:33: Undefined control sequence.
+l.33 ...ith a basic knowledge of \LaTeXe\ or \mLyX
+                                                  \ to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:39: Undefined control sequence.
+l.39 \textsmaller
+                 {GNU} General Public License.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no é in font cmr10!
+Missing character: There is no ß in font cmr10!
+./Chapters/Chapter01.tex:50: Undefined control sequence.
+l.50  \url
+          {http://postcards.miede.de}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\OT1/cmr/m/n/10.95 A well-balanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\OT1/cmr/m/n/10.95 line width im-
+ []
+
+
+Underfull \hbox (badness 6526) in paragraph at lines 53--53
+\OT1/cmr/m/n/10.95 proves the leg-i-
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 53--53
+\OT1/cmr/m/n/10.95 That's what ty-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\OT1/cmr/m/n/10.95 pog-ra-phy is all
+ []
+
+[3
+
+
+
+]
+./Chapters/Chapter01.tex:72: Undefined control sequence.
+<recently read> \url 
+                     
+l.72 ...-archive/macros/latex/contrib/booktabs/}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:86: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Organization}
+l.86 \section{Organization}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (21.5806pt too wide) in paragraph at lines 93--97
+[]\OT1/cmtt/m/n/10.95 Chapters/ \OT1/cmr/m/n/10.95 is where all the ``real'' con-tent goes in sep-a-rate files such as \OT1/cmtt/m/n/10.95 Chapter01.tex
+ []
+
+[4]
+./Chapters/Chapter01.tex:109: Undefined control sequence.
+l.109 ...eX\ and \textsc{pdf}\LaTeX\dots and \mLyX
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:117: Undefined control sequence.
+l.117 ...where a source was cited in the text (\ie
+                                                  , the page number).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:122: Undefined control sequence.
+l.122 ...milar information here. Refer to \autoref
+                                                  {sec:custom} for more
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:126: Undefined control sequence.
+l.126 ...nsition from the ``basic'' style to \mLyX
+                                                  .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:132: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Style Options}
+l.132 \section{Style Options}
+                             \label{sec:options}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 136--136
+\OT1/cmr/m/n/10.95 vi-sor might use
+ []
+
+
+Underfull \hbox (badness 5711) in paragraph at lines 136--136
+\OT1/cmr/m/n/10.95 the mar-gins for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\OT1/cmr/m/n/10.95 some com-ments
+ []
+
+./Chapters/Chapter01.tex:152: Undefined control sequence.
+l.152     classes that do not use chapters, \eg
+                                               , for articles. Automatically
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5]
+./Chapters/Chapter01.tex:178: Undefined control sequence.
+l.178 		    math formul\ae\ etc. (\eg
+                                     , ``\ss'') in headers.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (10.90466pt too wide) in paragraph at lines 174--179
+[]\OT1/cmtt/m/n/10.95 pdfspacing\OT1/cmr/m/n/10.95 : makes use of pdf-tex' let-ter spac-ing ca-pa-bil-i-ties via the \OT1/cmtt/m/n/10.95 microtype
+ []
+
+[6]
+./Chapters/Chapter01.tex:237: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Customization}
+l.237 \section{Customization}
+                             \label{sec:custom}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]\OT1/cmr/m/n/10.95 Modifications
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\OT1/cmr/m/n/10.95 in \OT1/cmtt/m/n/10.95 classic-
+ []
+
+
+Overfull \hbox (10.23546pt too wide) in paragraph at lines 252--252
+\OT1/cmtt/m/n/10.95 thesis-config.tex 
+ []
+
+
+./Chapters/Chapter01.tex:254: LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 \begin{lstlisting}
+                        [frame=lt]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Chapters/Chapter01.tex:260: LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Chapters/Chapter01.tex:264: Undefined control sequence.
+l.264 (see~\autoref
+                   {sec:options}) in a line that looks like this:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter01.tex:266: LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 \begin{lstlisting}
+                        [frame=lt]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Chapters/Chapter01.tex:267: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.267 \PassOptionsToPackage
+                           {eulerchapternumbers,drafting,listings,subfig,eul...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Chapters/Chapter01.tex:268: LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--269
+
+ []
+
+
+./Chapters/Chapter01.tex:272: LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 \begin{lstlisting}
+                        [breaklines=false,frame=lt]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Chapters/Chapter01.tex:273: Undefined control sequence.
+l.273 \setboolean
+                 {enable-backrefs}{false} % true false
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter01.tex:274: LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Chapters/Chapter01.tex:276: LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 \begin{lstlisting}
+                        [breaklines=false,frame=lt]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Chapters/Chapter01.tex:277: Undefined control sequence.
+l.277 \setboolean
+                 {enable-backrefs}{true} % true false
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter01.tex:278: LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.278 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]\OT1/cmr/m/n/10.95 Modifications in
+ []
+
+
+Overfull \hbox (10.23546pt too wide) in paragraph at lines 286--286
+\OT1/cmtt/m/n/10.95 classicthesis.sty 
+ []
+
+./Chapters/Chapter01.tex:291: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Issues}
+l.291 \section{Issues}
+                      \label{sec:issues}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7]
+./Chapters/Chapter01.tex:298: Undefined control sequence.
+l.298 	\url
+           {http://code.google.com/p/classicthesis/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 302.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 320.
+./Chapters/Chapter01.tex:336: Undefined control sequence.
+l.336 ...re issues changing \verb|\tablename|, \eg
+                                                  , using this:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8]
+./Chapters/Chapter01.tex:359: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Future Work}
+l.359 \section{Future Work}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:374: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Beyond a Thesis}
+l.374 \section{Beyond a Thesis}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:388: Undefined control sequence.
+l.388 \lstinputlisting
+                      [caption=An Article]%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:391: Undefined control sequence.
+l.391 \lstinputlisting
+                      [caption=A Book]%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:394: Undefined control sequence.
+l.394 \lstinputlisting
+                      [caption=A Curriculum Vit\ae]%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[9]
+./Chapters/Chapter01.tex:398: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {License}
+l.398 \section{License}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:401: Undefined control sequence.
+l.401  it under the terms of the \textsmaller
+                                             {GNU} General Public License as
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:410: Undefined control sequence.
+l.410  \textsmaller
+                   {GNU} General Public License for more details.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:412: Undefined control sequence.
+l.412 ... have received a copy of the \textsmaller
+                                                  {GNU} General
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:417: Undefined control sequence.
+l.417  Boston, \textsmaller
+                           {MA} 02111-1307, \textsmaller{USA}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter01.tex:417: Undefined control sequence.
+l.417 ...\textsmaller{MA} 02111-1307, \textsmaller
+                                                  {USA}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [10]
+./PhDthesis.tex:91: Undefined control sequence.
+l.91 \ctparttext
+                {You can put some informational part preamble text here.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11
+
+
+
+] [12
+
+
+] [13] [14]
+\openout2 = `Chapters/Chapter02.aux'.
+
+ (./Chapters/Chapter02.tex
+Chapter 2.
+./Chapters/Chapter02.tex:2: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Examples}
+l.2 \chapter{Examples}
+                      \label{ch:examples}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:2: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Examples}
+l.2 \chapter{Examples}
+                      \label{ch:examples}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:7: Undefined control sequence.
+l.7 \citeauthor
+               {dueck:trio} \citep{dueck:trio}. His no decore
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:7: Undefined control sequence.
+l.7 \citeauthor{dueck:trio} \citep
+                                  {dueck:trio}. His no decore
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:10: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {A New Section}
+l.10 \section{A New Section}
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:18: Undefined control sequence.
+l.18 Examples: \textit{Italics}, \spacedallcaps
+                                               {All Caps}, \textsc{Small
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:19: Undefined control sequence.
+l.19 Caps}, \spacedlowsmallcaps
+                               {Low Small Caps}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:22: Undefined control sequence.
+l.22 \graffito
+              {Note: The content of this chapter is just some dummy text.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:30: Undefined control sequence.
+l.30 Errem omnium ea per, pro \ac
+                                 {UML} congue populo ornatus cu, ex qui
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:45: Undefined control sequence.
+l.45 ea cum \ac
+               {API} primis intellegat. Hinc cotidieque reprehendunt eu
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[15
+
+
+
+]
+./Chapters/Chapter02.tex:58: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Another Section in This C...
+l.58 \section{Another Section in This Chapter}
+                                               % \ensuremath{\NoCaseChange{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:65: Undefined control sequence.
+l.65 ...ma sine svedese americas. Asia \citeauthor
+                                                  {bentley:1999}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:66: Undefined control sequence.
+l.66 \citep
+           {bentley:1999} representantes un nos, un altere membros
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:82: Undefined control sequence.
+l.82 \citeauthor
+                {cormen:2001} \citep{cormen:2001} simplificate, traducite
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:82: Undefined control sequence.
+l.82 \citeauthor{cormen:2001} \citep
+                                    {cormen:2001} simplificate, traducite
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:98: Undefined control sequence.
+l.98 ...eratura in web. Veni americano \citeauthor
+                                                  {knuth:1976}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:99: Undefined control sequence.
+l.99 \citep
+           {knuth:1976} es con, non internet millennios secundarimente ha.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:102: Undefined control sequence.
+l.102 duce facite westeuropee web, \autoref
+                                           {tab:example} nos clave
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[16]
+
+./Chapters/Chapter02.tex:105: LaTeX Error: Environment aenumerate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \begin{aenumerate}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Chapters/Chapter02.tex:106: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106     \item E
+                 numeration with small caps (alpha)
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Chapters/Chapter02.tex:107: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107     \item S
+                 econd item
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Chapters/Chapter02.tex:108: LaTeX Error: \begin{document} ended by \end{aenumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 \end{aenumerate}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Chapters/Chapter02.tex:110: Undefined control sequence.
+l.110 Medio integre lo per, non \citeauthor
+                                           {sommerville:1992}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:111: Undefined control sequence.
+l.111 \citep
+            {sommerville:1992} es linguas integre. Al web altere integre
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:128: Undefined control sequence.
+<recently read> \myfloatalign 
+                              
+l.128     \myfloatalign
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter02.tex:129: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129   \begin{tabularx}
+                        {\textwidth}{Xll} \toprule
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Chapters/Chapter02.tex:129: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.129   \begin{tabularx}{\textwidth}
+                                    {Xll} \toprule
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapters/Chapter02.tex:129: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.129   \begin{tabularx}{\textwidth}
+                                    {Xll} \toprule
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapters/Chapter02.tex:129: Undefined control sequence.
+l.129   \begin{tabularx}{\textwidth}{Xll} \toprule
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:130: Undefined control sequence.
+l.130     \tableheadline
+                        {labitur bonorum pri no} & \tableheadline{que vista}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:130: Misplaced alignment tab character &.
+l.130     \tableheadline{labitur bonorum pri no} &
+                                                   \tableheadline{que vista}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:130: Undefined control sequence.
+l.130 ...{labitur bonorum pri no} & \tableheadline
+                                                  {que vista}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:131: Misplaced alignment tab character &.
+l.131     &
+            \tableheadline{human} \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:131: Undefined control sequence.
+l.131     & \tableheadline
+                          {human} \\ \midrule
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:131: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.131     & \tableheadline{human} \\ \midrule
+                                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:132: Misplaced alignment tab character &.
+l.132     fastidii ea ius &
+                            germano &  demonstratea \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:132: Misplaced alignment tab character &.
+l.132     fastidii ea ius & germano &
+                                       demonstratea \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:133: Misplaced alignment tab character &.
+l.133     suscipit instructior &
+                                 titulo & personas \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:133: Misplaced alignment tab character &.
+l.133     suscipit instructior & titulo &
+                                          personas \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:135: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.135     \midrule
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:136: Misplaced alignment tab character &.
+l.136     quaestio philosophia &
+                                 facto & demonstrated \citeauthor{knuth:1976...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:136: Misplaced alignment tab character &.
+l.136     quaestio philosophia & facto &
+                                         demonstrated \citeauthor{knuth:1976...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter02.tex:136: Undefined control sequence.
+l.136 ...sophia & facto & demonstrated \citeauthor
+                                                  {knuth:1976} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:139: Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.139     \bottomrule
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter02.tex:140: LaTeX Error: \begin{table} on input line 127 ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140   \end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--142
+
+ []
+
+./Chapters/Chapter02.tex:142: Undefined control sequence.
+<argument> ...timeam deleniti usu id. \citeauthor 
+                                                  {knuth:1976}\unskip \strut }}
+l.142   id. \citeauthor{knuth:1976}}
+                                      \label{tab:example}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:142: Undefined control sequence.
+<argument> ...timeam deleniti usu id. \citeauthor 
+                                                  {knuth:1976}}}
+l.142   id. \citeauthor{knuth:1976}}
+                                      \label{tab:example}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:149: Undefined control sequence.
+l.149 ...guistic registrate se nos. Gymnasios, \eg
+                                                  , sanctificate sia
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:150: Undefined control sequence.
+l.150 le, publicate \autoref
+                            {fig:example} methodicamente e qui.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:152: Undefined control sequence.
+l.152 ...ite. Que altere responder su, pan ma, \ie
+                                                  , signo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:153: Undefined control sequence.
+l.153 studio. \autoref
+                      {fig:example-b} Instruite preparation le duo, asia
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (7.8643pt too wide) in paragraph at lines 152--156
+[]\OT1/cmr/m/n/10.95 Lo sed ap-prende in-stru-ite. Que al-tere re-spon-der su, pan ma, , signo stu-dio. fig:example-
+ []
+
+./Chapters/Chapter02.tex:158: Undefined control sequence.
+l.158         \myfloatalign
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:159: Undefined control sequence.
+l.159         \subfloat
+                       [Asia personas duo.]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:160: Undefined control sequence.
+l.160         {\includegraphics
+                               [width=.45\linewidth]{gfx/example_1}} \quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:160: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.160 ...   {\includegraphics[width=.45\linewidth]
+                                                  {gfx/example_1}} \quad
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapters/Chapter02.tex:160: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.160 ...   {\includegraphics[width=.45\linewidth]
+                                                  {gfx/example_1}} \quad
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapters/Chapter02.tex:160: Missing $ inserted.
+<inserted text> 
+                $
+l.160 ...raphics[width=.45\linewidth]{gfx/example_
+                                                  1}} \quad
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Chapters/Chapter02.tex:160: Extra }, or forgotten $.
+l.160 ...phics[width=.45\linewidth]{gfx/example_1}
+                                                  } \quad
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Chapters/Chapter02.tex:160: Extra }, or forgotten $.
+l.160 ...hics[width=.45\linewidth]{gfx/example_1}}
+                                                   \quad
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Chapters/Chapter02.tex:161: Undefined control sequence.
+l.161         \subfloat
+                       [Pan ma signo.]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:163: Undefined control sequence.
+l.163          \includegraphics
+                               [width=.45\linewidth]{gfx/example_2}} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:163: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.163 ...    \includegraphics[width=.45\linewidth]
+                                                  {gfx/example_2}} \\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapters/Chapter02.tex:163: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.163 ...    \includegraphics[width=.45\linewidth]
+                                                  {gfx/example_2}} \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapters/Chapter02.tex:164: Undefined control sequence.
+<recently read> \subfloat 
+                          
+l.164         \subfloat
+                       [Methodicamente o uno.]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:165: Undefined control sequence.
+l.165         {\includegraphics
+                               [width=.45\linewidth]{gfx/example_3}} \quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:165: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.165 ...   {\includegraphics[width=.45\linewidth]
+                                                  {gfx/example_3}} \quad
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapters/Chapter02.tex:165: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.165 ...   {\includegraphics[width=.45\linewidth]
+                                                  {gfx/example_3}} \quad
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapters/Chapter02.tex:166: Undefined control sequence.
+l.166         \subfloat
+                       [Titulo debitas.]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:167: Undefined control sequence.
+l.167         {\includegraphics
+                               [width=.45\linewidth]{gfx/example_4}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter02.tex:167: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.167 ...   {\includegraphics[width=.45\linewidth]
+                                                  {gfx/example_4}}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapters/Chapter02.tex:167: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.167 ...   {\includegraphics[width=.45\linewidth]
+                                                  {gfx/example_4}}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapters/Chapter02.tex:169: Missing $ inserted.
+<inserted text> 
+                $
+l.169         latente.}
+                       \label{fig:example}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (22.884pt too wide) in paragraph at lines 159--169
+[]\OT1/cmr/m/n/10.95 [Asia per-sonas duo.] [width=.45]gfx/example$[] [\OML/cmm/m/it/10.95 Panmasigno:\OT1/cmr/m/n/10.95 ][][] 
+ []
+
+
+Overfull \hbox (56.09616pt too wide) in paragraph at lines 159--169
+\OT1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 Methodicamenteouno:\OT1/cmr/m/n/10.95 ][] [\OML/cmm/m/it/10.95 Titulodebitas:\OT1/cmr/m/n/10.95 ][]$ 
+ []
+
+./Chapters/Chapter02.tex:170: Missing } inserted.
+<inserted text> 
+                }
+l.170 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Chapters/Chapter02.tex:170: Missing } inserted.
+<inserted text> 
+                }
+l.170 \end{figure}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) [17]
+
+./PhDthesis.tex:98: LaTeX Error: Float(s) lost.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \include{Chapters/Chapter02}
+                                 
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\openout2 = `Chapters/Chapter03.aux'.
+
+(./Chapters/Chapter03.tex [18
+
+
+
+
+]
+Chapter 3.
+./Chapters/Chapter03.tex:2: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Math Test Chapter}
+l.2 \chapter{Math Test Chapter}
+                               \label{ch:mathtest} % $\mathbb{ZNR}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter03.tex:2: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Math Test Chapter}
+l.2 \chapter{Math Test Chapter}
+                               \label{ch:mathtest} % $\mathbb{ZNR}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter03.tex:8: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Some Formulas}
+l.8 \section{Some Formulas}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter03.tex:13: Undefined control sequence.
+<recently read> \url 
+                     
+l.13 ...http://home.vrweb.de/~was/mathfonts.html}}
+                                                  .  Continuous processes
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter03.tex:23: Undefined control sequence.
+l.23 \graffito
+              {You might get unexpected results using math in chapter or
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[19]
+./Chapters/Chapter03.tex:74: Undefined control sequence.
+l.74   inequality $\kappa > 10 $ (\ie
+                                     , when the mean energy loss in the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter03.tex:87: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Various Mathematical Exam...
+l.87 \section{Various Mathematical Examples}
+                                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [20] [21
+
+
+
+
+
+] [22]
+\openout2 = `Chapters/Chapter0A.aux'.
+
+ (./Chapters/Chapter0A.tex
+Appendix A.
+./Chapters/Chapter0A.tex:6: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Appendix Test}
+l.6 \chapter{Appendix Test}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:6: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {Appendix Test}
+l.6 \chapter{Appendix Test}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:21: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Appendix Section Test}
+l.21 \section{Appendix Section Test}
+                                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:26: Undefined control sequence.
+l.26 \graffito
+              {More dummy text.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:33: Undefined control sequence.
+<argument> ...ection \enspace \spacedlowsmallcaps 
+                                                  {Another Appendix Section ...
+l.33 \section{Another Appendix Section Test}
+                                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:41: Undefined control sequence.
+<recently read> \myfloatalign 
+                              
+l.41     \myfloatalign
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter0A.tex:42: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42   \begin{tabularx}
+                       {\textwidth}{Xll} \toprule
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Chapters/Chapter0A.tex:42: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.42   \begin{tabularx}{\textwidth}
+                                   {Xll} \toprule
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Chapters/Chapter0A.tex:42: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.42   \begin{tabularx}{\textwidth}
+                                   {Xll} \toprule
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Chapters/Chapter0A.tex:42: Undefined control sequence.
+l.42   \begin{tabularx}{\textwidth}{Xll} \toprule
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:43: Undefined control sequence.
+l.43     \tableheadline
+                       {labitur bonorum pri no} & \tableheadline{que vista}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:43: Misplaced alignment tab character &.
+l.43     \tableheadline{labitur bonorum pri no} &
+                                                  \tableheadline{que vista}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:43: Undefined control sequence.
+l.43 ...e{labitur bonorum pri no} & \tableheadline
+                                                  {que vista}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:44: Misplaced alignment tab character &.
+l.44     &
+           \tableheadline{human} \\ \midrule
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:44: Undefined control sequence.
+l.44     & \tableheadline
+                         {human} \\ \midrule
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:44: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.44     & \tableheadline{human} \\ \midrule
+                                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:45: Misplaced alignment tab character &.
+l.45     fastidii ea ius &
+                           germano &  demonstratea \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:45: Misplaced alignment tab character &.
+l.45     fastidii ea ius & germano &
+                                      demonstratea \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:46: Misplaced alignment tab character &.
+l.46     suscipit instructior &
+                                titulo & personas \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:46: Misplaced alignment tab character &.
+l.46     suscipit instructior & titulo &
+                                         personas \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:48: Undefined control sequence.
+<recently read> \midrule 
+                         
+l.48     \midrule
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Chapters/Chapter0A.tex:49: Misplaced alignment tab character &.
+l.49     quaestio philosophia &
+                                facto & demonstrated \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:49: Misplaced alignment tab character &.
+l.49     quaestio philosophia & facto &
+                                        demonstrated \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Chapters/Chapter0A.tex:52: Undefined control sequence.
+<recently read> \bottomrule 
+                            
+l.52     \bottomrule
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Chapters/Chapter0A.tex:53: LaTeX Error: \begin{table} on input line 40 ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53   \end{tabularx}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--54
+
+ []
+
+
+./Chapters/Chapter0A.tex:64: LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \begin{lstlisting}
+                       [float,caption=A floating example]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Chapters/Chapter0A.tex:69: LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{lstlisting}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [23
+
+
+
+] [24]
+\openout2 = `FrontBackmatter/Bibliography.aux'.
+
+ (./FrontBackmatter/Bibliography.tex
+./FrontBackmatter/Bibliography.tex:5: Undefined control sequence.
+l.5 \manualmark
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Bibliography.tex:6: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {\bibname }
+l.6 ...s{\bibname}}{\spacedlowsmallcaps{\bibname}}
+                                                   % work-around to have sma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Bibliography.tex:6: Undefined control sequence.
+<argument> \spacedlowsmallcaps 
+                               {\bibname }
+l.6 ...s{\bibname}}{\spacedlowsmallcaps{\bibname}}
+                                                   % work-around to have sma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Bibliography.tex:8: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \refstepcounter{dummy}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Bibliography.tex:9: Undefined control sequence.
+<argument> ...c}{\protect \vspace {\beforebibskip 
+                                                  }}
+l.9 ...tents{toc}{\protect\vspace{\beforebibskip}}
+                                                   % to have the bib a bit f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Bibliography.tex:10: Undefined control sequence.
+<argument> ...t \contentsline {chapter}{\tocEntry 
+                                                  {\bibname }}{\thepage }}
+l.10 ...ntsline{toc}{chapter}{\tocEntry{\bibname}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.bbl
+
+LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
+               before end of `thebibliography' environment on input line 8.
+
+)) [25
+
+
+
+
+
+
+] [26
+
+
+
+]
+\openout2 = `FrontBackmatter/Colophon.aux'.
+
+ (./FrontBackmatter/Colophon.tex
+./FrontBackmatter/Colophon.tex:8: Undefined control sequence.
+l.8 \pdfbookmark
+                [0]{Colophon}{colophon}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Colophon.tex:12: Undefined control sequence.
+l.12 ...s} is available for both \LaTeX\ and \mLyX
+                                                  :
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Colophon.tex:14: Undefined control sequence.
+l.14 \url
+         {http://code.google.com/p/classicthesis/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Colophon.tex:18: Undefined control sequence.
+l.18 \url
+         {http://postcards.miede.de/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Colophon.tex:23: Undefined control sequence.
+l.23 \noindent\finalVersionString
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [27
+
+] [28
+
+
+
+]
+\openout2 = `FrontBackmatter/Declaration.aux'.
+
+ (./FrontBackmatter/Declaration.tex
+
+./FrontBackmatter/Declaration.tex:4: LaTeX Error: No counter 'dummy' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \refstepcounter{dummy}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./FrontBackmatter/Declaration.tex:5: Undefined control sequence.
+l.5 \pdfbookmark
+                [0]{Declaration}{declaration}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[29
+
+] [30
+
+
+]
+./FrontBackmatter/Declaration.tex:11: Undefined control sequence.
+<recently read> \myLocation 
+                            
+l.11 \noindent\textit{\myLocation, \myTime}
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./FrontBackmatter/Declaration.tex:11: Undefined control sequence.
+<argument> \myLocation , \myTime 
+                                 
+l.11 \noindent\textit{\myLocation, \myTime}
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Declaration.tex:16: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16     \begin{tabular}{m{5cm}}
+                                
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./FrontBackmatter/Declaration.tex:16: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16     \begin{tabular}{m{5cm}}
+                                
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./FrontBackmatter/Declaration.tex:18: Undefined control sequence.
+l.18         \centering\myName
+                               \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./FrontBackmatter/Declaration.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19     \end
+             {tabular}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) [31] (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.aux (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/DirtyTitlepage.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Titlepage.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Titleback.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Dedication.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Abstract.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Publication.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Acknowledgments.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Contents.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter01.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter02.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter03.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/Chapters/Chapter0A.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Bibliography.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Colophon.aux) (/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/FrontBackmatter/Declaration.aux)) ) 
+Here is how much of TeX's memory you used:
+ 1646 strings out of 493315
+ 33448 string characters out of 6137905
+ 108041 words of memory out of 5000000
+ 5016 multiletter control sequences out of 15000+600000
+ 11791 words of font info for 42 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 35i,10n,48p,273b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on "/Users/anhtuan/Documents/Dropbox/PhD/0. My thesis/My PhD thesis/.texpadtmp/PhDthesis.pdf" (51 pages, 245179 bytes).
+PDF statistics:
+ 242 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

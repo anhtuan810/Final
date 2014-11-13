@@ -1,0 +1,31 @@
+\contentsline {part}{\numberline {I}Some Kind of Manual}{1}
+\contentsline {chapter}{\numberline {1}Introduction}{3}
+\contentsline {paragraph}{Important Note:}{4}
+\contentsline {section}{\numberline {1.1}Organization}{4}
+\contentsline {section}{\numberline {1.2}Style Options}{5}
+\contentsline {section}{\numberline {1.3}Customization}{7}
+\contentsline {section}{\numberline {1.4}Issues}{8}
+\contentsline {paragraph}{Further information for using \texttt {classicthesis} with Spanish (in addition to the above)}{8}
+\contentsline {section}{\numberline {1.5}Future Work}{9}
+\contentsline {section}{\numberline {1.6}Beyond a Thesis}{9}
+\contentsline {section}{\numberline {1.7}License}{10}
+\contentsline {paragraph}{GNU General Public License:}{10}
+\contentsline {part}{\numberline {II}The Showcase}{13}
+\contentsline {chapter}{\numberline {2}Examples}{15}
+\contentsline {section}{\numberline {2.1}A New Section}{15}
+\contentsline {subsection}{\numberline {2.1.1}Test for a Subsection}{15}
+\contentsline {subsection}{\numberline {2.1.2}Autem Timeam}{16}
+\contentsline {section}{\numberline {2.2}Another Section in This Chapter}{16}
+\contentsline {subsection}{\numberline {2.2.1}Personas Initialmente}{16}
+\contentsline {subsubsection}{\numberline {2.2.1.1}A Subsubsection}{16}
+\contentsline {paragraph}{A Paragraph Example}{17}
+\contentsline {subsection}{\numberline {2.2.2}Linguistic Registrate}{17}
+\contentsline {chapter}{\numberline {3}Math Test Chapter}{19}
+\contentsline {section}{\numberline {3.1}Some Formulas}{19}
+\contentsline {section}{\numberline {3.2}Various Mathematical Examples}{20}
+\contentsline {part}{\numberline {III}Appendix}{21}
+\contentsline {chapter}{\numberline {A}Appendix Test}{23}
+\contentsline {section}{\numberline {A.1}Appendix Section Test}{23}
+\contentsline {section}{\numberline {A.2}Another Appendix Section Test}{23}
+\vspace {}
+\contentsline {chapter}{{Bibliography}}{25}
